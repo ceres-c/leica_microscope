@@ -1,0 +1,6 @@
+[submodule "MKS-TinyBee"]
+	path = MKS-TinyBee
+	url = https://github.com/makerbase-mks/MKS-TinyBee.git
+[submodule "microscope_firmware"]
+	path = microscope_firmware
+	url = https://github.com/ThijsRay/microscope_firmware.git
